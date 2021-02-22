@@ -15,7 +15,7 @@ Below are the changes I have done.
 * Commented `style.css` file to optimize organization
 * Commented `index.html` file to optimize organization
 * Removed duplicate lines of code and changed class names
-* `.benefit-brand``.benefit-lead``.benefit-cost` changed into 1 class named `.b-w`
-* `.search-engine-optimization``.online-reputation-management``.social-media-marketing` changed to `.main-content`
-* div classes `.header` & `.footer` removed and used HTML semantics `<header>``<footer>`
+* `.benefit-brand` `.benefit-lead` `.benefit-cost` changed into 1 class named `.b-w`
+* `.search-engine-optimization` `.online-reputation-management` `.social-media-marketing` changed to `.main-content`
+* div classes `.header` & `.footer` removed and used HTML semantics `<header>` `<footer>`
 * `.hero` class renamed to `.meeting-img`avoid confusion
