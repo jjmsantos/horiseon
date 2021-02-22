@@ -1,33 +1,33 @@
-/* styles whole webpage */
+/* Styles whole webpage */
 * {
     box-sizing: border-box;
     padding: 0;
     margin: 0;
 }
-/* end of whole page styling */
+/* End of whole page styling */
 
-/* main background color */
+/* Main background color */
 body {
-    background-color: #868686b6;
+    background-color: #d9dcd6;
 }
-
-.header {
+/* Styling of header beings */
+header {
     padding: 20px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     background-color: #2a607c;
     color: #ffffff;
 }
 
-.header h1 {
+header h1 {
     display: inline-block;
     font-size: 48px;
 }
 
-.header h1 .seo {
+.seo {
     color: #d9dcd6;
 }
 
-.header div {
+header div {
     padding-top: 15px;
     margin-right: 20px;
     float: right;
@@ -35,14 +35,15 @@ body {
     font-size: 20px;
 }
 
-.header div ul {
+header div ul {
     list-style-type: none;
 }
 
-.header div ul li {
+header div ul li {
     display: inline-block;
     margin-left: 25px;
 }
+/* Styling of header ends */
 
 a {
     color: #ffffff;
@@ -53,7 +54,7 @@ p {
     font-size: 16px;
 }
 
-.hero {
+.meeting-img {
     height: 800px;
     width: 100%;
     margin-bottom: 25px;
@@ -71,13 +72,13 @@ p {
     float: right;
     margin-left: 25px;
 }
-/* main content div */
+/* Main content div */
 .content {
     width: 75%;
     display: inline-block;
     margin-left: 20px;
 }
-/* whole div for right-justified content */
+/* Whole div for right-justified content */
 .benefits {
     margin-right: 20px;
     padding: 20px;
@@ -105,10 +106,10 @@ p {
     margin: 10px auto;
     max-width: 150px;
 }
-/* end of right-justified content style */
+/* End of right-justified content style */
 
-/* main body of webpage begins */
-/* removed duplicate code and condensed into 1 class - main-content */
+/* Main body of webpage begins */
+/* Removed duplicate code and condensed into 1 class - main-content */
 .main-content {
     margin-bottom: 20px;
     padding: 50px;
@@ -126,16 +127,16 @@ p {
     margin-bottom: 20px;
     font-size: 36px;
 }
-/* end of main body webpage */
-/* footer style begins*/
-.footer {
+/* End of main body webpage */
+/* Footer style begins*/
+footer {
     padding: 30px;
     clear: both;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     text-align: center;
 }
 
-.footer h2 {
+footer h4 {
     font-size: 20px;
 }
-/* end of footer style */
+/* End of footer style */
