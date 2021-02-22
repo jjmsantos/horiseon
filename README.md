@@ -3,6 +3,7 @@
 
 Thank you for giving me this opportunity to review and revise the given code!
 I have implemented some changes and removed some redundant code that i have found.
+
 ***
 
 Below are the changes I have done.
@@ -19,3 +20,8 @@ Below are the changes I have done.
 * `.search-engine-optimization` `.online-reputation-management` `.social-media-marketing` changed to `.main-content`
 * div classes `.header` & `.footer` removed and used HTML semantics `<header>` `<footer>`
 * `.hero` class renamed to `.meeting-img`avoid confusion
+* Added additional HTML syntax that was missing in original code.
+
+***
+
+[URL to deployed website:](https://jjmsantos.github.io/horiseon/)
