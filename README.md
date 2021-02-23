@@ -28,6 +28,5 @@ Live website can be found here: [https://jjmsantos.github.io/horiseon/](https://
 
 **
 
-Mockup of active website
-
-![Screenshot of live website](/Develop/assests/images/Website-screenshot.jpg?raw=true)
+Mockup of active website:
+![Screenshot of live website](/Develop/assets/images/Website-screenshot.jpg?raw=true)
