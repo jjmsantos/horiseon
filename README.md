@@ -19,9 +19,15 @@ Below are the changes I have done.
 * `.benefit-brand` `.benefit-lead` `.benefit-cost` changed into 1 class named `.b-w`
 * `.search-engine-optimization` `.online-reputation-management` `.social-media-marketing` changed to `.main-content`
 * div classes `.header` & `.footer` removed and used HTML semantics `<header>` `<footer>`
-* `.hero` class renamed to `.meeting-img`avoid confusion
+* `.hero` class renamed to `.meeting-img` to avoid confusion
 * Added additional HTML syntax that was missing in original code.
 
 ***
 
-[URL to deployed website:](https://jjmsantos.github.io/horiseon/)
+Live website can be found here: [https://jjmsantos.github.io/horiseon/](https://jjmsantos.github.io/horiseon/)
+
+**
+
+Mockup of active website
+
+![Screenshot of live website](/Develop/assests/images/Website-screenshot.jpg?raw=true)
